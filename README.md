@@ -21,11 +21,11 @@ The application is divided into two main mathematical categories:
 ### 1. Basic Operations
 Perform element-wise or dot-product arithmetic between your primary matrix and:
 * **Scalars:** Addition, subtraction, and scalar multiplication.
-* **Vectors/Matrices:** Addition, subtraction, and matrix multiplication (dot product).
+* **Vectors/Matrices:** Addition, subtraction, and matrix multiplication.
 
 ### 2. Advanced Operations
 Evaluate matrix properties or generate derived matrices:
-* **Determinant & Singularity:** Calculate the determinant and check if a matrix is invertible.
+* **Determinant & Singularity:** Calculate the determinant and check if a matrix is singular (non-invertible).
 * **Transpose:** Swap rows and columns.
 * **Symmetry:** 
   * Check if a matrix is symmetric or skew-symmetric.
@@ -38,11 +38,11 @@ Evaluate matrix properties or generate derived matrices:
 ## 📋 Prerequisites
 
 * **Python 3.10 or higher:** The script utilizes structural pattern matching (`match`/`case`), which was introduced in Python 3.10.
-* **NumPy library**
+* **NumPy:** Used for core matrix calculations and linear algebra functions.
 
 ## 🚀 Installation
 
 1. Clone the repository or download the script file.
-2. Install the required dependencies using pip:
+2. Install the required dependency using pip:
    ```bash
    pip install numpy
