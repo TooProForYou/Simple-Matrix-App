@@ -9,7 +9,7 @@ A feature-rich, command-line Python application for evaluating and manipulating 
 ## 📑 Table of Contents
 - [Features](#-features)
 - [Prerequisites](#-prerequisites)
-- [Installation](#-installation)
+- [Installation Guide](#-installation)
 - [Usage & Input Formatting](#-usage--input-formatting)
 - [Operations Guide](#-operations-guide)
 - [Roadmap](#-roadmap)
