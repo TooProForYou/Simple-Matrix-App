@@ -2,6 +2,8 @@
 
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
 ![NumPy](https://img.shields.io/badge/numpy-required-orange)
+![Math](https://img.shields.io/badge/math-required-orange)
+![Tkinter](https://img.shields.io/badge/tkinter-required-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 A feature-rich, command-line Python application for evaluating and manipulating mathematical matrices. Built with NumPy, this tool allows users to input matrices on the fly and perform everything from basic arithmetic to advanced linear algebra calculations.
