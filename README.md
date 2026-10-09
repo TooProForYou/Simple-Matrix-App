@@ -76,9 +76,18 @@ Once the app is running, you will be greeted by the main menu:
 
 *The app will loop continuously until you type `no` when asked "Do you want to stay?" at the end of an operation cycle.*
 
-## 🗺️ Update Noted
+## 🚩 Update Notes
 
 - [ ] **"Remember Me" Matrix Memory:** Variables (`memory`, `s`) are finally worked upon and have reached the end of development and the application has achieved a binary memory feature.
 - [ ] **Enhanced Error Handling:**  This has finally rolled out and now exception catching for non-square matrices during operations like Adjoint and Cofactor generation to prevent unexpected crashes has been optimized well.
+
+## 📖 Future Updates
+
+- [ ] **"Cofactor Matrix Generator":** Users could generate cofactor matrices from their input matrix.
+- [ ] **"Orthogonal Matrix Generator / Checker":** Users could generate and check if their matrix is orthogonal or not.
+- [ ] **Eigenvalue and Eigenvector:**  Options featuring eigenvalues and eigenvectors could be developed in the future.
+- [ ] **"Independence Checker:" Users could check if their matrix is independent or not.
+- [ ] **Vector Input:** More vector operations can be indroduced
+
 ---
 *Built with love ♥*
