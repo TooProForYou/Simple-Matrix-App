@@ -86,7 +86,7 @@ Once the app is running, you will be greeted by the main menu:
 - [ ] **"Cofactor Matrix Generator":** Users could generate cofactor matrices from their input matrix.
 - [ ] **"Orthogonal Matrix Generator / Checker":** Users could generate and check if their matrix is orthogonal or not.
 - [ ] **Eigenvalue and Eigenvector:**  Options featuring eigenvalues and eigenvectors could be developed in the future.
-- [ ] **"Independence Checker:" Users could check if their matrix is independent or not.
+- [ ] **"Independence Checker:"** Users could check if their matrix is independent or not.
 - [ ] **Vector Input:** More vector operations can be indroduced
 
 ---
