@@ -1,4 +1,4 @@
-# Matrix Operations CLI App
+# Matrix Operations GUI App
 
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
 ![NumPy](https://img.shields.io/badge/numpy-required-orange)
@@ -78,10 +78,18 @@ Once the app is running, you will be greeted by the main menu:
 
 *The app will loop continuously until you type `no` when asked "Do you want to stay?" at the end of an operation cycle.*
 
-## 🗺️ Roadmap
+## 🚩 Update Notes
 
-- [ ] **"Remember Me" Matrix Memory:** Variables (`memory`, `s`) are currently initialized in the codebase to pave the way for a memory feature. In future updates, users will be able to save the result of a calculation and use it as the input for their next operation without retyping the matrix.
-- [ ] **Enhanced Error Handling:** Improve exception catching for non-square matrices during operations like Adjoint and Cofactor generation to prevent unexpected crashes.
+- [ ] **"Remember Me" Matrix Memory:** Variables (`memory`, `s`) are finally worked upon and have reached the end of development and the application has achieved a binary memory feature.
+- [ ] **Enhanced Error Handling:**  This has finally rolled out and now exception catching for non-square matrices during operations like Adjoint and Cofactor generation to prevent unexpected crashes has been optimized well.
+
+## 📖 Future Updates
+
+- [ ] **"Cofactor Matrix Generator":** Users could generate cofactor matrices from their input matrix.
+- [ ] **"Orthogonal Matrix Generator / Checker":** Users could generate and check if their matrix is orthogonal or not.
+- [ ] **Eigenvalue and Eigenvector:**  Options featuring eigenvalues and eigenvectors could be developed in the future.
+- [ ] **"Independence Checker:" Users could check if their matrix is independent or not.
+- [ ] **Vector Input:** More vector operations can be indroduced
 
 ---
-*Built with Python and NumPy.*
+*Built with love ♥*
